@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun !!</h1>
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Varun2851&color=brightgreen">
 
-## 👨🏻‍💻 &nbsp;About Me
+## 🧑‍💻 &nbsp;About Me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
