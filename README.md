@@ -1,30 +1,24 @@
 <h1 align="center">Hi 👋, I'm Varun !!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varun2851&label=Profile%20views&color=0e75b6&style=flat" alt="varun2851" /> </p>
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Varun2851&color=brightgreen">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun2851" alt="varun2851" /></a> </p>
+## 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently focusing on **Data Structures and Algorithms.**
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I’m currently learning **Competitive Programming**
+- 🔭 I'm currently studying Electronics and Communication Engineering at **Jaypee Institute of Information Technology , Noida.**
 
-- 💬 Ask me about **tech related things**
+- 🌱 Some technologies I enjoy working with include **ReactJS**, **JavaScript**, **NodeJS** and **ExpressJS**.
 
-- 📫 How to reach me **varunyadav891@gmail.com**
+- 💬 I'm on track for learning more about **Cross-Platform Development**, **Systems Design**, and **Algorithms**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varun-yadav-223974175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-yadav-223974175" height="30" width="40" /></a>
+- 📫 How to reach me **varunyadav891@gmail.com** , I will try to respond as soon as I Can.
 
-<a href="https://www.hackerrank.com/varunyadav891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varunyadav891" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varunyadav891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunyadav891" height="30" width="40" /></a>
-</p>
+## Find me around the web 🌎  
+<a href="https://www.linkedin.com/in/tanyarajhans/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+- Struggling on <a href="https://leetcode.com/varunyadav891/">LeetCode</a> 😍
+- Practising on <a href="https://codeforces.com/profile/Varun2851">Codeforces</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/varun-yadav-223974175/">LinkedIn</a> 😇
+- Follow me on <a href="https://twitter.com/VarunYadav2851">Twitter</a> 🤗.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun2851&show_icons=true&locale=en&layout=compact" alt="varun2851" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun2851&show_icons=true&locale=en" alt="varun2851" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun2851&" alt="varun2851" /></p>
 
