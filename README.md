@@ -18,6 +18,6 @@
 
 - Struggling on <a href="https://leetcode.com/varunyadav891/">LeetCode</a> 😍
 - Sharing updates on <a href="https://www.linkedin.com/in/varun-yadav-223974175/">LinkedIn</a> 😇
-- Follow me on <a href="https://twitter.com/VarunYadav2851">Twitter</a> 🤗.
+- Follow me on <a href="https://twitter.com/VarunYadav2851">Twitter</a> 🤗
 
 
