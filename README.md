@@ -8,7 +8,7 @@ C++ Programmer & Web dev enthusiast
 
 I'm a passionate and experienced C++ programmer with 3 years of experience. I have a strong foundation in programming concepts and logic, and I'm always looking for ways to challenge myself and expand my knowledge. In addition to C++, I'm also very interested in web development, both on the frontend and backend. I've been learning JavaScript, HTML, and CSS to create dynamic and interactive web pages, as well as backend technologies such as Node.js and Express to create server-side applications and APIs.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India.
 * ✉️  You can contact me at [varunyadav891@gmail.com](mailto:varunyadav891@gmail.com)
 * 🧠  I'm learning React js
 * 🤝  I'm open to collaborating on Full Stack Projects
