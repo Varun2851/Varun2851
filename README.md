@@ -20,7 +20,7 @@ C++ Programmer & Web dev enthusiast
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Varun2851&theme=dark&hide_border=false)<br/>
-<a href="http://www.github.com/Varun2851"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Varun2851&bg_color=1c1917&color=3382ed&line=0891b2&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 
 ### ✍️ Random Dev Quote
