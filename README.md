@@ -6,11 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Analyst@Rxlogix
 -----------------------------------
 
-<h4>I'm a passionate and experienced Data Analyst with 1+ years of experience. I have a strong foundation in programming concepts and logic, and I'm always looking for ways to challenge myself and expand my knowledge. In addition to SQL, I'm also very interested in C++,Python.Currently, I'm expanding my skills set by learning more about Data Analysis.</h4>
+<h4>I'm a passionate and driven professional with over a year of experience in data analysis and a strong foundation in programming, logic, and problem-solving. My background in SQL, Python, and C++ has equipped me with the technical versatility to design intelligent, data-driven solutions. I’m now expanding my expertise toward agentic automation development, focusing on building systems that leverage AI agents, workflow automation, and large language models to enhance efficiency and decision-making. I’m always eager to explore new technologies and continuously challenge myself to develop smarter, more adaptive automation solutions.</h4>
 
 <h5>* 🌍  I'm based in India.</h5>
 <h5>* 🧠  I'm learning Python </h5>
-<h5>* 🤝  Exploring DevOps</h5>
+<h5>* 🤝  Exploring Automation through Python</h5>
 
 
 # 📊 GitHub Stats:
